@@ -1,2 +1,2 @@
-https://github.com/Kebikov/rsschool-cv/cv
-https://github.com/Kebikov/rsschool-cv/
+https://github.com/Kebikov/rsschool-cv/blob/gh-pages/cv.md
+https://github.com/Kebikov/rsschool-cv
